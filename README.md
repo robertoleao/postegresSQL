@@ -1,4 +1,4 @@
-# postegresSQL
+# postgreSQL
 Project_LAB
 
 docker-postgresql
